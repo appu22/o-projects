@@ -1,0 +1,7 @@
+package com.xworkz.PlaceDTO.enumm;
+
+public enum Location {
+	
+	MALLESHWARAM,VIJAYNAGAR,RAJAJINAGAR,BANASHANKARI,KANAKNAGAR,RAMMURTHYNAGAR
+
+}
